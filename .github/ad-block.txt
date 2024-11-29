@@ -1,0 +1,15 @@
+#######################################################################################
+##### Spotify Ads Whitelist                                                        ####
+##### Created by: Isaaker                                                          ####
+##### Updated: 2024-10-26 (GMT)                                                    ####
+#######################################################################################
+##### Version: Adguard                                                             ####
+##### Number of domains: 1254                                                      ####
+#######################################################################################
+##### Read more: https://github.com/Isaaker/Spotify-AdsList                        ####
+##### License: https://github.com/Isaaker/Spotify-AdsList/blob/main/LICENSE.txt    ####
+#######################################################################################
+
+||api-partner.spotify.com^
+||audio4-fa.scdn.co^
+||partners.wg.spotify.com^

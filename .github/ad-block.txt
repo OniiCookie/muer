@@ -13,3 +13,5 @@
 ||api-partner.spotify.com^
 ||audio4-fa.scdn.co^
 ||partners.wg.spotify.com^
+||mobile.events.data.microsoft.com^
+||web.facebook.com^
